@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data><Series>
+  <id>255586</id>
+  <Actors>||</Actors>
+  <Airs_DayOfWeek></Airs_DayOfWeek>
+  <Airs_Time></Airs_Time>
+  <ContentRating>TV-G</ContentRating>
+  <FirstAired>2009-01-01</FirstAired>
+  <Genre>|Documentary|</Genre>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Network>ZDF</Network>
+  <NetworkID></NetworkID>
+  <Overview>In February 2008 a fire destroyed the Cloud Gate Dance Company studio in Taipei. All archives, sets, costumes and rehearsal spaces were lost.
+
+Artistic Director and chief choreographer Lin Hwai-Min took up the challenge and donations from all over the world provided Cloud Gate Dance theatre with new premises and allowed them a new beginning.
+
+This documentary shows the Company in Wuppertal during the preparations of &quot;Wind Shadow&quot; at the Pina Pausch's International Dance Festival. We visit Taipei, Taiwan during the company's 35th anniversary, where we plunge into a world that is strange and mysterious to West Europeans.
+
+In an interview with Lin Hwai-min, we learn more about his work and experience, outstanding pieces like &quot;Wind Shadow&quot;, &quot;Moon Water&quot;, &quot;Cursive Trilogy&quot; and &quot;Whisper of Flower&quot; will serve as excerpts to show the artistic development of the company within the last ten years.</Overview>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <Runtime>55</Runtime>
+  <SeriesID></SeriesID>
+  <SeriesName>Lin Hwai-Min - Interface Between Worlds</SeriesName>
+  <Status>Ended</Status>
+  <added>2012-01-27 20:52:48</added>
+  <addedBy>352777</addedBy>
+  <banner>text/255586.jpg</banner>
+  <fanart>fanart/original/255586-2.jpg</fanart>
+  <lastupdated>1327732665</lastupdated>
+  <poster>posters/255586-1.jpg</poster>
+  <zap2it_id></zap2it_id>
+</Series>
+<Episode>
+  <id>4250834</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Jean Christophe Blavier</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Lin Hwai-Min - Interface Between Worlds</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2009-01-01</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>In February 2008 a fire destroyed the Cloud Gate Dance Company studio in Taipei. All archives, sets, costumes and rehearsal spaces were lost.
+
+Artistic Director and chief choreographer Lin Hwai-Min took up the challenge and donations from all over the world provided Cloud Gate Dance theatre with new premises and allowed them a new beginning.
+
+This documentary shows the Company in Wuppertal during the preparations of &quot;Wind Shadow&quot; at the Pina Pausch's International Dance Festival. We visit Taipei, Taiwan during the company's 35th anniversary, where we plunge into a world that is strange and mysterious to West Europeans.
+
+In an interview with Lin Hwai-min, we learn more about his work and experience, outstanding pieces like &quot;Wind Shadow&quot;, &quot;Moon Water&quot;, &quot;Cursive Trilogy&quot; and &quot;Whisper of Flower&quot; will serve as excerpts to show the artistic development of the company within the last ten years.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1327729399</lastupdated>
+  <seasonid>483787</seasonid>
+  <seriesid>255586</seriesid>
+</Episode>
+</Data><?xml version="1.0" encoding="UTF-8" ?>
+<Banners>
+<Banner>
+  <id>894148</id>
+  <BannerPath>fanart/original/255586-3.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1920x1080</BannerType2>
+  <Colors></Colors>
+  <Language>en</Language>
+  <Rating>10.0000</Rating>
+  <RatingCount>1</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/255586-3.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/255586-3.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>894146</id>
+  <BannerPath>fanart/original/255586-1.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1920x1080</BannerType2>
+  <Colors></Colors>
+  <Language>en</Language>
+  <Rating>10.0000</Rating>
+  <RatingCount>1</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/255586-1.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/255586-1.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>894147</id>
+  <BannerPath>fanart/original/255586-2.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1920x1080</BannerType2>
+  <Colors></Colors>
+  <Language>en</Language>
+  <Rating>10.0000</Rating>
+  <RatingCount>1</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/255586-2.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/255586-2.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>894152</id>
+  <BannerPath>posters/255586-1.jpg</BannerPath>
+  <BannerType>poster</BannerType>
+  <BannerType2>680x1000</BannerType2>
+  <Language>en</Language>
+  <Rating>10.0000</Rating>
+  <RatingCount>1</RatingCount>
+</Banner>
+<Banner>
+  <id>894151</id>
+  <BannerPath>text/255586.jpg</BannerPath>
+  <BannerType>series</BannerType>
+  <BannerType2>text</BannerType2>
+  <Language>en</Language>
+  <Rating>10.0000</Rating>
+  <RatingCount>1</RatingCount>
+</Banner>
+</Banners><?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+</Actors>
